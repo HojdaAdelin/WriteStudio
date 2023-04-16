@@ -1,0 +1,1 @@
+pyinstaller --onefile -w -i "editor.ico" WorldWriter.py
