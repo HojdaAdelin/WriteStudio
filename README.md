@@ -33,7 +33,7 @@ We can:
 # GUI
 
 When the app is launched it appears a loading screen, after few seconds it open the main screen.\
-The main GUI of this app is assembled along with scroll bars, text box, statua bar, tool bar & menu bar.
+The main GUI of this app is assembled along with scroll bars, text box, status bar, tool bar & menu bar.
 
 ![Screenshot 2023-04-17 204947](https://user-images.githubusercontent.com/83898333/232568429-810139dd-a634-427b-99f5-bd57fa74ad2a.png)
 
