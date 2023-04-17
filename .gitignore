@@ -2,3 +2,6 @@ test
 installers
 arhiva
 *.exe
+WorldWriter
+dist
+*.spec

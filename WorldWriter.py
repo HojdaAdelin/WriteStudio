@@ -637,7 +637,7 @@ def main_window():
         version_frame = Frame(version_window)
         version_frame.pack(padx=5, pady=5)
 
-        version_label = Label(version_frame, text="Current version:\n1.1.5")
+        version_label = Label(version_frame, text="Current version:\n1.1.6")
         version_label.pack(pady=5)
 
     def delete_text():
@@ -671,10 +671,10 @@ def main_window():
         news_frame = Frame(news_window)
         news_frame.pack(padx=5, pady=5)
 
-        version_label = Label(news_frame, text="Version 1.1.5")
+        version_label = Label(news_frame, text="Version 1.1.6")
         version_label.pack(anchor=N)
 
-        logs_label = Label(news_frame, text="-Replace window remodel\n-Find window remodel\n-Second toolbar update\n-Theme update\n-Resizable function\n-Back font function\n-Minor bug fixed")
+        logs_label = Label(news_frame, text="-New toolbar icons\n-Read.me rewrite")
         logs_label.pack(pady=10, anchor=W)
 
     def about_file():
