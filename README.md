@@ -9,9 +9,9 @@ Learn more about [Tkinter](https://docs.python.org/3/library/tkinter.html)
 
 # File manage
 
-This app is a text editor that mean it have a lot of function about file & text.\
+This app is a text editor that mean it have a lot of function about file & text.
 <pre>
-We can:
+
     -Save a file
     -Open a file
     -Create a file
