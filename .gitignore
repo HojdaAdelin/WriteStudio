@@ -5,3 +5,5 @@ arhiva
 WorldWriter
 dist
 *.spec
+Build/test.md
+test.py
