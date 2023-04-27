@@ -1,0 +1,1 @@
+__all__ = ["news", "version", "menu", "about"]
