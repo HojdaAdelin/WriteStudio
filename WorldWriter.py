@@ -19,7 +19,6 @@ from tkfontchooser import askfont
 from tkinter import ttk
 
 
-
 # Loading screen
 
 
