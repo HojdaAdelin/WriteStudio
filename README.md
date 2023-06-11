@@ -3,7 +3,7 @@
 Currently in a rebuild.
 
 # World-Writer
-World Writer is a modern text editor whit all essentials function &amp; configuration.
+World Writer is a modern text editor whit all essentials function &amp; configuration
 
 # Interface 
 
